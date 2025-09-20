@@ -10,20 +10,21 @@
 **Project Structure
 - src/
 -  ├─ i18n/
-- │   ├─ index.ts         
--  │   └─ locales/
+- │     ├─ index.ts         
+-  │    └─ locales/
 -  │       ├─ en/products.json
 -  │       ├─ fr/products.json
 -  │       └─ de/products.json
 -  ├─ components/
--  │   ├─ ProductCard.tsx
--  │   └─ LanguageSwitcher.tsx
+-  │      ├─ ProductCard.tsx
+-  │      └─ LanguageSwitcher.tsx
 -  ├─ App.tsx
 -  └─ main.tsx
 
 **Usage**
 1.Install Dependencies
 - npm install
+  
 2.Run the Project
 - npm run dev
 
