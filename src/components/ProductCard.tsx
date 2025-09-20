@@ -37,15 +37,16 @@ export default function ProductCard({ productKey, onAddToCart, onBuyNow }: Produ
           onClick={() => onAddToCart && onAddToCart(productKey)}
           className="flex-1 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
         >
-          Add to Cart
+    {t('addToCart')}
         </button>
         <button
           onClick={() => onBuyNow && onBuyNow(productKey)}
           className="flex-1 px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600 transition"
         >
-          Buy Now
+               {t('buyNow')}
         </button>
       </div>
     </div>
   );
 }
+
