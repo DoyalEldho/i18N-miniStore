@@ -1,0 +1,17 @@
+{
+  "product_1": {
+    "name": "Kabellose Maus",
+    "price": "25€",
+    "image": "https://zebronics.com/cdn/shop/products/zeb-dashplus-pic2.jpg?v=1618045825&width=2048"
+  },
+  "product_2": {
+    "name": "Mechanische Tastatur",
+    "price": "75€",
+    "image": "https://images-cdn.ubuy.ae/63400c68afe02d2b0c7aeb85-mechanical-gaming-keyboard-87-keys-small.jpg"
+  },
+  "product_3": {
+    "name": "HD Monitor",
+    "price": "150€",
+    "image": "https://m.media-amazon.com/images/I/71XcEDjYjtL.jpg"
+  }
+}
