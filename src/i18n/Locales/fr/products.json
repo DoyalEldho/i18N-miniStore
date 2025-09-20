@@ -13,5 +13,7 @@
     "name": "Moniteur HD",
     "price": "150€",
     "image": "https://m.media-amazon.com/images/I/71XcEDjYjtL.jpg"
-  }
+  },
+    "addToCart": "Ajouter au panier",
+  "buyNow": "Acheter maintenant"
 }
